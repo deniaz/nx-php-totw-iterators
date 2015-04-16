@@ -1,0 +1,13 @@
+{
+  "name": "deniaz/iterators",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Namics\\TopicOfTheWeek\\Generator\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/dom-crawler": "~2.6",
+    "symfony/css-selector": "~2.6"
+  }
+}

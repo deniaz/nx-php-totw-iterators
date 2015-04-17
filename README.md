@@ -1,4 +1,6 @@
-# nx-php-totw-iterators
+# Namics PHP Topic Of The Week about PHP Iterators
+
+[Slides](deniaz.github.io/nx-php-totw-iterators/)
 
 ## Install
 `composer install`
